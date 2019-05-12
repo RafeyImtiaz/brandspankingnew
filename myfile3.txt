@@ -1,1 +1,1 @@
-added jargon
+Make raspberry pi hardware IoT tut.
